@@ -30,3 +30,6 @@ jobs:
 
     - name: Test
       run: npm test
+
+    - name: Deploy
+      run: npm run deploy
